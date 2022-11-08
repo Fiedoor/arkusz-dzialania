@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin:0;
+}
+header{
+    background-color: #983713;
+    height: 100px;
+    margin: 0;
+}
+h4{
+    margin: 0;
+}
+#left{
+    background-color: #FF7F50;
+    width:80%;
+    height: 500px;
+    display: block;
+    margin: 0;
+    float: left;
+}
+#right{
+    background-color: #FF7F50;
+    width: 20%;
+    height: 500px;
+    display: inline-block;
+    margin: 0;
+}
+.top{
+    width: 17%;
+    float: left;
+    margin: 0;
+}
