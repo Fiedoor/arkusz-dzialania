@@ -12,6 +12,20 @@ footer{
     background-color: #983713;
     margin: 0;
 }
+button{
+    background-color: #D3D3D3;
+    color: #2F2F2F;
+    border: 2px;
+    border-color: #2F2F2F;
+    margin: 5px;
+    padding-top:  10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+input{
+    color: orange;
+}
 #left{
     background-color: #FF7F50;
     width:80%;
